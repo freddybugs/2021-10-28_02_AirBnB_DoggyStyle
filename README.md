@@ -1,5 +1,11 @@
 # THP - Le Airbnb des promenades de chiens
 
+- Faire un `bundle install`
+- Ensuite `rails db:migrate`
+- Afin de vérifier que les migrations sont up : `rails db:migrate:status`
+- Ensuite `rails db:seed`
+- Enfin ouvrir la console `rails c`
+
 ![AirBNB_DoggyStyle_Diagram](https://user-images.githubusercontent.com/91549636/139349097-692b2398-0baf-43d9-8232-b67b91cfab92.jpg)
 
 Le pitch
